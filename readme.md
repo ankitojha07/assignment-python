@@ -1,5 +1,7 @@
 # Fetch PubMed Papers
 
+GPT Chat Link: https://chatgpt.com/share/67b1c396-faa8-800c-a58f-70253645291f
+
 ## Overview
 This script fetches research papers from the PubMed API based on a user-specified query. It extracts key details such as title, publication date, non-academic authors, company affiliations, and the corresponding author's email. The results are saved to a CSV file for further analysis.
 
